@@ -1,2 +1,2 @@
 # hello-world
-Just another ropository
+Apenas seguindo o tutorial (Make and commit changes).
